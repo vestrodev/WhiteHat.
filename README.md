@@ -1,2 +1,0 @@
-# WhiteHat.
-Whitehat.
